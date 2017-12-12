@@ -1,2 +1,2 @@
-# Cloud Detection For Visible Remote Sensing Images
+# Cloud and Haze Detection For Visible Remote Sensing Images
 Stay Tuned!...
