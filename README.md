@@ -1,2 +1,2 @@
-# Cloud and Haze Detection For Visible Remote Sensing Images
+# Cloud Detection From RGB Color Remote Sensing Images with Deep Pyramid Networks
 Stay Tuned!...
