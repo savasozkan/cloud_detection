@@ -49,3 +49,16 @@ Code and Tensorflow model will be released from this page after the initial acce
   <img src="files/test_3_spcnn.png" width="150" />
   <img src="files/test_4_spcnn.png" width="150" />
 </p>
+
+## References
+
+Please cite the following paper:
+
+[1] Savas Ozkan, Mehmet Efendioglu and Caner Demirpolat, Cloud Detection From RGB Color Remote Sensing Images with Deep Pyramid Networks.
+```
+@article{ozkan18dpnvgg,
+  title={Cloud Detection From RGB Color Remote Sensing Images with Deep Pyramid Networks},
+  author={Ozkan, Savas and Efendioglu, Mehmet and Demirpolat, Caner},
+  year={2018},
+}
+```
