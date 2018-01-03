@@ -1,5 +1,10 @@
 # Cloud Detection From RGB Color Remote Sensing Images with Deep Pyramid Networks
 
+## Code and TF Model
+Code and Tensorflow model will be released from this page after initial acceptance is approved. Stay Tuned!
+
+## Experimental Results
+
 <b>RGB Color Images</b>
 <p float="left">
   <img src="files/test_0.png" width="150" />
