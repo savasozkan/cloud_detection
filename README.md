@@ -8,6 +8,8 @@
   <img src="files/test_4.png" width="150" />
 </p>
 
+RGB color images
+
 <p float="left">
   <img src="files/test_0_gt.png" width="150" />
   <img src="files/test_1_gt.png" width="150" /> 
