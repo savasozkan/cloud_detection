@@ -6,8 +6,8 @@
   <img src="files/test_2.png" width="150" />
   <img src="files/test_3.png" width="150" />
   <img src="files/test_4.png" width="150" />
-  <title="Optional title" />
 </p>
+<b>RGB Color Images<\b>
 
 
 <p float="left">
