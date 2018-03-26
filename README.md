@@ -1,7 +1,8 @@
 # Cloud Detection From RGB Color Remote Sensing Images with Deep Pyramid Networks
 
 ## Code and TF Model
-Code and Tensorflow model will be released from this page after the initial acceptance is approved. Stay Tuned!
+* Our paper is accepted to IEEE IGARSS 2018.
+* Code and Tensorflow model will be released from this page very soon.
 
 ## Experimental Results
 
@@ -50,3 +51,16 @@ Code and Tensorflow model will be released from this page after the initial acce
   <img src="files/test_4_spcnn.png" width="150" />
 </p>
 
+## References
+
+Please cite the following paper:
+
+[1] Savas Ozkan, Mehmet Efendioglu and Caner Demirpolat, Cloud Detection From RGB Color Remote Sensing Images With Deep Pyramid Networks, arXiv:1708.07335:
+```
+@article{ozkan18cloud,
+  title={Cloud Detection From RGB Color Remote Sensing Images With Deep Pyramid Networks},
+  author={Ozkan, Savas and Efendioglu, Mehmet and Demirpolat, Caner},
+  journal={arXiv preprint arXiv:1801.08706},
+  year={2018},
+}
+```
